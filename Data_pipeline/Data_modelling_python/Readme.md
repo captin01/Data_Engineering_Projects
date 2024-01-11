@@ -115,4 +115,4 @@ def create_database():
 ![ecommerce_visual_graph2](https://github.com/captin01/Data_Engineering_Projects/assets/114471010/daf41b45-64d5-415b-ba81-26bb5af60a40)
 
 ## The end till next time 
-![Craziest Fruit Seller of India](https://i.makeagif.com/media/1-27-2023/rhgJ7o.gif)
+![crazy-watermelon-seller-yelling-laal-hai](https://github.com/captin01/Data_Engineering_Projects/assets/114471010/cf8cc67f-7d62-4131-8386-0e4f392e461b)
