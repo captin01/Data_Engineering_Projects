@@ -11,8 +11,8 @@ This documentation outlines the **_process of changing a Third Normal Form (3NF)
 ## Prerequisites 
 - PostgreSQL database with the DVD Rental sample database installed
 
-[!NOTE]
-
+>[!NOTE]
+>
 > Information on how to both **download and load the dataset to PostgreSQL** is clearly stated in the website provided.
 >
 >If loading the data using PostgreSQL GUI refuses/gives an error use the sql server but make sure the directory is in **bin** when loading the dataset.
@@ -25,9 +25,11 @@ This documentation outlines the **_process of changing a Third Normal Form (3NF)
 ## Walkthrough
 
 - <u>Original 3NF(Third Normal Form) Schema</u>
+
 ![image](https://github.com/captin01/Data_Engineering_Projects/assets/114471010/b81366e8-cca1-4953-a988-4c2c852c9b81)
 
 - <u>Final Star Schema</u> 
+
 ![dvdrentalERD drawio](https://github.com/captin01/Data_Engineering_Projects/assets/114471010/271ccb0c-2d83-4c4f-b51b-1ca2e23876f2)
 
 ### Identfying the Fact and Dimension table.
