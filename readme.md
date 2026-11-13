@@ -1,11 +1,3 @@
-# Data Engineering Projects
-
-This repository is the technical workspace behind my data engineering and analytics portfolio. It complements my main profile repository, [captin01/captin01](https://github.com/captin01/captin01), which acts as the public-facing overview of who I am, what I do, and the broader skills I bring as a Data Engineer and Data Analyst.
-
-Together, the two repositories tell the story of my work:
-
-- [captin01/captin01](https://github.com/captin01/captin01) — personal portfolio and profile README
-- [captin01/Data_Engineering_Projects](https://github.com/captin01/Data_Engineering_Projects) — hands-on project work, SQL, ETL, warehousing, and analysis artifacts
 
 ---
 
